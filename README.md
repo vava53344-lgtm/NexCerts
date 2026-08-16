@@ -76,7 +76,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Global Takeoff, Inc (HLS) | ❌ Revoked | Jul 8 08:01:43 2025 GMT | Jul 8 08:01:43 2026 GMT |
 | Global Takeoff, Inc (suppose) | ❌ Revoked | Jun 26 20:10:06 2025 GMT | Jun 26 20:10:06 2026 GMT |
 | Global Takeoff, Inc (ads) | ❌ Revoked | Jun 26 20:07:37 2025 GMT | Jun 26 20:07:37 2026 GMT |
-| Global Takeoff, Inc (Airtel Adhoc) | ⚠️ Status: Unknown | Jun 15 02:26:31 2025 GMT | Jun 15 02:26:31 2026 GMT |
+| Global Takeoff, Inc (Airtel Adhoc) | ❌ Revoked | Jun 15 02:26:31 2025 GMT | Jun 15 02:26:31 2026 GMT |
 | Global Takeoff, Inc (branch distribution) | ❌ Revoked | Jun 5 09:11:08 2025 GMT | Jun 5 09:11:08 2026 GMT |
 | Global Takeoff, Inc (Scope ent distribution) | ❌ Revoked | Jun 5 09:10:29 2025 GMT | Jun 5 09:10:29 2026 GMT |
 | Wuling Power Corporation | ❌ Revoked | May 14 09:44:48 2025 GMT | May 14 09:44:48 2026 GMT |
