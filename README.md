@@ -68,7 +68,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | VIETNAM AIRLINES JSC (MOPLUS LIDO UAT) | ❌ Revoked | Aug 8 12:21:46 2025 GMT | Aug 8 12:21:46 2026 GMT |
 | VIETNAM AIRLINES JSC (MOPLUS Uat) | ❌ Revoked | Aug 8 07:24:27 2025 GMT | Aug 8 07:24:27 2026 GMT |
 | VIETNAM AIRLINES JSC (VNA Discovery) | ❌ Revoked | Aug 8 07:22:45 2025 GMT | Aug 8 07:22:45 2026 GMT |
-| VIETNAM AIRLINES JSC (MOPLUS Pro) | ❌ Revoked | Aug 8 07:21:49 2025 GMT | Aug 8 07:21:49 2026 GMT |
+| VIETNAM AIRLINES JSC (MOPLUS Pro) | ⚠️ Status: Unknown | Aug 8 07:21:49 2025 GMT | Aug 8 07:21:49 2026 GMT |
 | VIETNAM AIRLINES JSC (tn elearning) | ❌ Revoked | Aug 8 06:55:41 2025 GMT | Aug 8 06:55:41 2026 GMT |
 | Beijing Zhizhangyi Inc. (Mobile Portal) | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT |
 | Global Takeoff, Inc (Deeplink) | ❌ Revoked | Jul 18 06:32:21 2025 GMT | Jul 18 06:32:21 2026 GMT |
