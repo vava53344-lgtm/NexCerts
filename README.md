@@ -68,7 +68,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | VIETNAM AIRLINES JSC (MOPLUS LIDO UAT) | ❌ Revoked | Aug 8 12:21:46 2025 GMT | Aug 8 12:21:46 2026 GMT |
 | VIETNAM AIRLINES JSC (MOPLUS Uat) | ❌ Revoked | Aug 8 07:24:27 2025 GMT | Aug 8 07:24:27 2026 GMT |
 | VIETNAM AIRLINES JSC (VNA Discovery) | ❌ Revoked | Aug 8 07:22:45 2025 GMT | Aug 8 07:22:45 2026 GMT |
-| VIETNAM AIRLINES JSC (MOPLUS Pro) | ⚠️ Status: Unknown | Aug 8 07:21:49 2025 GMT | Aug 8 07:21:49 2026 GMT |
+| VIETNAM AIRLINES JSC (MOPLUS Pro) | ❌ Revoked | Aug 8 07:21:49 2025 GMT | Aug 8 07:21:49 2026 GMT |
 | VIETNAM AIRLINES JSC (tn elearning) | ❌ Revoked | Aug 8 06:55:41 2025 GMT | Aug 8 06:55:41 2026 GMT |
 | Beijing Zhizhangyi Inc. (Mobile Portal) | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT |
 | Global Takeoff, Inc (Deeplink) | ❌ Revoked | Jul 18 06:32:21 2025 GMT | Jul 18 06:32:21 2026 GMT |
@@ -86,7 +86,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | VIETNAM AIRLINES JSC [Old] | ❌ Revoked | Apr 22 14:56:19 2025 GMT | Apr 22 14:56:19 2026 GMT |
 | China Telecommunications Corporation | ❌ Revoked | Apr 18 08:18:10 2025 GMT | Apr 18 08:18:10 2026 GMT |
 | Commission on Elections (oadav) | ❌ Revoked | Apr 28 11:10:01 2025 GMT | Apr 17 16:19:09 2026 GMT |
-| China National Heavy Duty Truck Group Co., Ltd | ❌ Revoked | Apr 11 08:48:04 2025 GMT | Apr 11 08:48:04 2026 GMT |
+| China National Heavy Duty Truck Group Co., Ltd | ⚠️ Status: Unknown | Apr 11 08:48:04 2025 GMT | Apr 11 08:48:04 2026 GMT |
 | Tianjin University of Commerce | ❌ Revoked | Mar 17 12:52:01 2025 GMT | Mar 17 12:52:01 2026 GMT |
 | Etisalat - Emirates Telecommunications Corporation | ❌ Revoked | Apr 9 12:50:26 2025 GMT | Feb 07 11:07:09 2026 GMT |
 | Guangzhou Huahan Educational & Technology Co., Ltd | ❌ Revoked | Jan 24 03:35:31 2025 GMT | Jan 24 03:35:31 2026 GMT |
