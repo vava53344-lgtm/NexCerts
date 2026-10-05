@@ -55,7 +55,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | BOC International (China) Limited (qi ye weixin app id kuozhan) | ❌ Revoked | Nov 12 06:56:35 2025 GMT | Nov 6 01:06:11 2026 GMT |
 | BOC International (China) Limited (qi ye weixin app id tuisong kuozhan) | ❌ Revoked | Nov 12 06:59:32 2025 GMT | Nov 6 01:06:11 2026 GMT |
 | BOC International (China) Limited (qi ye weixin zhu app id) | ❌ Revoked | Nov 12 06:47:30 2025 GMT | Nov 6 01:06:11 2026 GMT |
-| PowerChina International Group Limited (iWaMrs) | ⚠️ Status: Unknown | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT |
+| PowerChina International Group Limited (iWaMrs) | ❌ Revoked | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT |
 | PowerChina International Group Limited (HRU79V) | ❌ Revoked | Oct 22 06:15:12 2025 GMT | Oct 22 06:15:12 2026 GMT |
 | Viet Nam Rubber Group Limited | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
 | Aramco Services Company | ❌ Revoked | Feb 17 15:03:05 2026 GMT | Sep 24 13:35:52 2026 GMT |
@@ -70,7 +70,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | VIETNAM AIRLINES JSC (VNA Discovery) | ❌ Revoked | Aug 8 07:22:45 2025 GMT | Aug 8 07:22:45 2026 GMT |
 | VIETNAM AIRLINES JSC (MOPLUS Pro) | ❌ Revoked | Aug 8 07:21:49 2025 GMT | Aug 8 07:21:49 2026 GMT |
 | VIETNAM AIRLINES JSC (tn elearning) | ❌ Revoked | Aug 8 06:55:41 2025 GMT | Aug 8 06:55:41 2026 GMT |
-| Beijing Zhizhangyi Inc. (Mobile Portal) | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT |
+| Beijing Zhizhangyi Inc. (Mobile Portal) | ⚠️ Status: Unknown | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT |
 | Global Takeoff, Inc (Deeplink) | ❌ Revoked | Jul 18 06:32:21 2025 GMT | Jul 18 06:32:21 2026 GMT |
 | Global Takeoff, Inc (Fairplay) | ❌ Revoked | Jul 14 12:13:49 2025 GMT | Jul 14 12:13:49 2026 GMT |
 | Global Takeoff, Inc (HLS) | ❌ Revoked | Jul 8 08:01:43 2025 GMT | Jul 8 08:01:43 2026 GMT |
