@@ -85,7 +85,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE | ❌ Revoked | Apr 24 10:51:01 2025 GMT | Apr 24 10:51:01 2026 GMT |
 | VIETNAM AIRLINES JSC [Old] | ❌ Revoked | Apr 22 14:56:19 2025 GMT | Apr 22 14:56:19 2026 GMT |
 | China Telecommunications Corporation | ❌ Revoked | Apr 18 08:18:10 2025 GMT | Apr 18 08:18:10 2026 GMT |
-| Commission on Elections (oadav) | ⚠️ Status: Unknown | Apr 28 11:10:01 2025 GMT | Apr 17 16:19:09 2026 GMT |
+| Commission on Elections (oadav) | ❌ Revoked | Apr 28 11:10:01 2025 GMT | Apr 17 16:19:09 2026 GMT |
 | China National Heavy Duty Truck Group Co., Ltd | ❌ Revoked | Apr 11 08:48:04 2025 GMT | Apr 11 08:48:04 2026 GMT |
 | Tianjin University of Commerce | ❌ Revoked | Mar 17 12:52:01 2025 GMT | Mar 17 12:52:01 2026 GMT |
 | Etisalat - Emirates Telecommunications Corporation | ❌ Revoked | Apr 9 12:50:26 2025 GMT | Feb 07 11:07:09 2026 GMT |
