@@ -4,10 +4,10 @@
 <dict>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
-		<string>com.novadev.nexstore.userTask.*</string>
+		<string>nexsideloading.nexstore.userTask.*</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25E246</string>
+	<string>25G83</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -16,7 +16,7 @@
 	<array>
 		<dict>
 			<key>CFBundleTypeIconFile</key>
-			<string>NexStore_extension</string>
+			<string>nexstore_extension</string>
 			<key>CFBundleTypeName</key>
 			<string>iOS Package Archive</string>
 			<key>CFBundleTypeRole</key>
@@ -25,12 +25,12 @@
 			<string>Owner</string>
 			<key>LSItemContentTypes</key>
 			<array>
-				<string>com.novadev.nexstore.ipa</string>
+				<string>nya.asami.ipa</string>
 			</array>
 		</dict>
 		<dict>
 			<key>CFBundleTypeIconFile</key>
-			<string>NexStore_extension</string>
+			<string>nexstore_extension</string>
 			<key>CFBundleTypeName</key>
 			<string>AirDrop friendly iOS app</string>
 			<key>CFBundleTypeRole</key>
@@ -39,7 +39,21 @@
 			<string>Alternate</string>
 			<key>LSItemContentTypes</key>
 			<array>
-				<string>com.novadev.nexstore.tipa</string>
+				<string>nya.asami.tipa</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeIconFile</key>
+			<string>nexstore_extension</string>
+			<key>CFBundleTypeName</key>
+			<string>NexStore Certificate Package</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSHandlerRank</key>
+			<string>Owner</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>nexsideloading.nexstore.cert</string>
 			</array>
 		</dict>
 	</array>
@@ -55,6 +69,19 @@
 			</array>
 			<key>CFBundleIconName</key>
 			<string>AppIcon</string>
+			<key>UIPrerenderedIcon</key>
+			<false/>
+		</dict>
+		<key>UINewsstandIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string></string>
+			</array>
+			<key>UINewsstandBindingEdge</key>
+			<string>UINewsstandBindingEdgeLeft</string>
+			<key>UINewsstandBindingType</key>
+			<string>UINewsstandBindingTypeMagazine</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -71,7 +98,7 @@
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.novadev.nexstore</string>
+	<string>nexsideloading.nexstore</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -79,7 +106,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.1</string>
+	<string>1.2.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -90,9 +117,9 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLIconFile</key>
-			<string>NexStore_extension</string>
+			<string>nexstore_extension</string>
 			<key>CFBundleURLName</key>
-			<string>com.novadev.nexstore</string>
+			<string>nexsideloading.nexstore</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>nexstore</string>
@@ -100,35 +127,33 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4fe000f55ded631897e32fcceb49e688da4e7d3c</string>
+	<string>1</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
-	<key>LSApplicationQueriesSchemes</key>
-	<array>
-		<string>localdevvpn</string>
-	</array>
+	<string>17F113</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<false/>
 	<key>MinimumOSVersion</key>
 	<string>16.0</string>
+	<key>NSAccentColorName</key>
+	<string>AccentColor</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright (c) 2024 Samara M</string>
+	<string>Copyright (c) 2025 Nagata Asami</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
@@ -149,6 +174,8 @@
 	</array>
 	<key>UIFileSharingEnabled</key>
 	<true/>
+	<key>UILaunchScreen</key>
+	<false/>
 	<key>UILaunchStoryboardName</key>
 	<string>Launch Screen.storyboard</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -158,10 +185,6 @@
 	<key>UIStatusBarStyle</key>
 	<string>UIStatusBarStyleDefault</string>
 	<key>UISupportedInterfaceOrientations</key>
-	<array>
-		<string>UIInterfaceOrientationPortrait</string>
-	</array>
-	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
@@ -182,14 +205,14 @@
 			<key>UTTypeDescription</key>
 			<string>iOS Package Archive</string>
 			<key>UTTypeIconFile</key>
-			<string>NexStore_extension</string>
+			<string>nexstore_extension</string>
 			<key>UTTypeIcons</key>
 			<dict>
 				<key>UTTypeIconText</key>
 				<string>IPA</string>
 			</dict>
 			<key>UTTypeIdentifier</key>
-			<string>com.novadev.nexstore.ipa</string>
+			<string>nya.asami.ipa</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.filename-extension</key>
@@ -212,7 +235,7 @@
 			<key>UTTypeDescription</key>
 			<string>AirDrop friendly iOS app</string>
 			<key>UTTypeIconFile</key>
-			<string>NexStore_extension</string>
+			<string>nexstore_extension</string>
 			<key>UTTypeIcons</key>
 			<dict>
 				<key>UTTypeIconBadgeName</key>
@@ -221,7 +244,7 @@
 				<string>TIPA</string>
 			</dict>
 			<key>UTTypeIdentifier</key>
-			<string>com.novadev.nexstore.tipa</string>
+			<string>nya.asami.tipa</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.filename-extension</key>
@@ -231,6 +254,35 @@
 				<key>public.mime-type</key>
 				<array>
 					<string>application/trollstore-ipa</string>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+				<string>public.content</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>NexStore Certificate Package</string>
+			<key>UTTypeIconFile</key>
+			<string>nexstore_extension</string>
+			<key>UTTypeIcons</key>
+			<dict>
+				<key>UTTypeIconText</key>
+				<string>NEXSTORE</string>
+			</dict>
+			<key>UTTypeIdentifier</key>
+			<string>nexsideloading.nexstore.cert</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>nexstore</string>
+				</array>
+				<key>public.mime-type</key>
+				<array>
+					<string>application/octet-stream</string>
 				</array>
 			</dict>
 		</dict>
